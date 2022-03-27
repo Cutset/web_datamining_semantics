@@ -1,0 +1,219 @@
+@prefix : <http://www.owl-ontologies.com/unnamed.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.owl-ontologies.com/unnamed.owl> .
+
+<http://www.owl-ontologies.com/unnamed.owl> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.owl-ontologies.com/unnamed.owl#final_project_ObjectProperty_2
+:final_project_ObjectProperty_2 rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.owl-ontologies.com/unnamed.owl#adress_velo
+:adress_velo rdf:type owl:DatatypeProperty ;
+             rdfs:domain :station_velo ;
+             rdfs:range xsd:string ;
+             rdfs:comment "adress_velo	lat_velo	lng_velo	bike_stands	status	available_bike_stands	available_bikes	availability	id_velo" .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#adresse_mon
+:adresse_mon rdf:type owl:DatatypeProperty ;
+             rdfs:domain :monument_historique ;
+             rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#adresse_musee
+:adresse_musee rdf:type owl:DatatypeProperty ;
+               rdfs:domain :musee ;
+               rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#availability
+:availability rdf:type owl:DatatypeProperty ;
+              rdfs:domain :station_velo ;
+              rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#available_bike_stands
+:available_bike_stands rdf:type owl:DatatypeProperty ;
+                       rdfs:domain :station_velo ;
+                       rdfs:range xsd:int .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#available_bikes
+:available_bikes rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :station_velo ;
+                 rdfs:range xsd:int .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#bike_stands
+:bike_stands rdf:type owl:DatatypeProperty ;
+             rdfs:domain :station_velo ;
+             rdfs:range xsd:int ;
+             rdfs:comment "adress_velo	lat_velo	lng_velo	bike_stands	status	available_bike_stands	available_bikes	availability	id_velo" .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#codep_musee
+:codep_musee rdf:type owl:DatatypeProperty ;
+             rdfs:domain :musee ;
+             rdfs:range xsd:float .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#commune_mon
+:commune_mon rdf:type owl:DatatypeProperty ;
+             rdfs:domain :monument_historique ;
+             rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#commune_musee
+:commune_musee rdf:type owl:DatatypeProperty ;
+               rdfs:domain :musee ;
+               rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#final_project_DatatypeProperty_3
+:final_project_DatatypeProperty_3 rdf:type owl:DatatypeProperty ;
+                                  rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#historique
+:historique rdf:type owl:DatatypeProperty ;
+            rdfs:domain :monument_historique ;
+            rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#id_mon
+:id_mon rdf:type owl:DatatypeProperty ;
+        rdfs:domain :monument_historique ;
+        rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#id_musee
+:id_musee rdf:type owl:DatatypeProperty ;
+          rdfs:domain :musee ;
+          rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#id_velo
+:id_velo rdf:type owl:DatatypeProperty ;
+         rdfs:domain :station_velo ;
+         rdfs:range xsd:int .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lat_mon
+:lat_mon rdf:type owl:DatatypeProperty ;
+         rdfs:domain :monument_historique ;
+         rdfs:range xsd:float .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lat_musee
+:lat_musee rdf:type owl:DatatypeProperty ;
+           rdfs:domain :musee ;
+           rdfs:range xsd:float .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lat_velo
+:lat_velo rdf:type owl:DatatypeProperty ;
+          rdfs:domain :station_velo ;
+          rdfs:range xsd:float ;
+          rdfs:comment "adress_velo	lat_velo	lng_velo	bike_stands	status	available_bike_stands	available_bikes	availability	id_velo" .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lng_mon
+:lng_mon rdf:type owl:DatatypeProperty ;
+         rdfs:domain :monument_historique ;
+         rdfs:range xsd:float .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lng_musee
+:lng_musee rdf:type owl:DatatypeProperty ;
+           rdfs:domain :musee ;
+           rdfs:range xsd:float .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lng_velo
+:lng_velo rdf:type owl:DatatypeProperty ;
+          rdfs:domain :station_velo ;
+          rdfs:range xsd:float .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#nom_mon
+:nom_mon rdf:type owl:DatatypeProperty ;
+         rdfs:domain :monument_historique ;
+         rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#nom_musee
+:nom_musee rdf:type owl:DatatypeProperty ;
+           rdfs:domain :musee ;
+           rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#siecle
+:siecle rdf:type owl:DatatypeProperty ;
+        rdfs:domain :monument_historique ;
+        rdfs:range xsd:int .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#status
+:status rdf:type owl:DatatypeProperty ;
+        rdfs:domain :station_velo ;
+        rdfs:range xsd:string .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#url_musee
+:url_musee rdf:type owl:DatatypeProperty ;
+           rdfs:domain :musee ;
+           rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.owl-ontologies.com/unnamed.owl#POI
+:POI rdf:type owl:Class .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#lieu_culturel
+:lieu_culturel rdf:type owl:Class ;
+               rdfs:subClassOf :POI ;
+               owl:disjointWith :station_velo .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#monument_historique
+:monument_historique rdf:type owl:Class ;
+                     rdfs:subClassOf :lieu_culturel ,
+                                     [ rdf:type owl:Restriction ;
+                                       owl:onProperty :commune_mon ;
+                                       owl:hasValue "Lyon"
+                                     ] ;
+                     owl:disjointWith :musee .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#musee
+:musee rdf:type owl:Class ;
+       rdfs:subClassOf :lieu_culturel ,
+                       [ rdf:type owl:Restriction ;
+                         owl:onProperty :commune_musee ;
+                         owl:hasValue "Lyon"
+                       ] .
+
+
+###  http://www.owl-ontologies.com/unnamed.owl#station_velo
+:station_velo rdf:type owl:Class ;
+              rdfs:subClassOf :POI .
+
+
+###  Generated by the OWL API (version 5.1.13.2020-01-27T22:08:36Z) https://github.com/owlcs/owlapi/
