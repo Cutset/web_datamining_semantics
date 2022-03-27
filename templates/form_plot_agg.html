@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block page_content %}
+{{ wtf.quick_form(form) }}
+<img src="{{image}}" alt="Veuillez choisir une aggrégation et valider pour afficher le plot"/>
+{% endblock %}

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>
+        {% if title %}
+            {{ title }}
+        {% else %}
+            Web datamaning & semantics project
+        {% endif %}
+    </title>
+</head>
+
+<body>
+    <header>{% block head %}{% endblock %}</header>
+    {% extends 'bootstrap/base.html' %}
+    {% block content %}
+    <main class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/">Accueil</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+            <a class="nav-link" href="/query6a">Query 6-a<!--span class="sr-only">(current)</span>--></a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/query6b">Query 6-b</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/query6c">Query 6-c</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/query6d">Query 6-d</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/optional">Query OPTIONAL</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/altconj">Query ALTERNATIVE/CONJUNCTION</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/construction">Query CONSTRUCTION</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/ask">Query ASK</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/describe">Query DESCRIBE</a>
+            </li>
+
+        </ul>
+        </div>
+    </nav>
+
+    {% block page_content %}
+
+    <div class= 'container'>
+        <h1>Welcome on our Web datamaning and semantics Project's API !</h1>
+        <p class="text-justify">We have choose the tree following dataset : </p>
+        <p class="text-justify">- Bicycle stations in Lyon</p>
+        <p class="text-justify">- Museum</p>
+        <p class="text-justify">- Monuments</p>
+        <p class="text-justify">To display our queries, click on each one in the navigation bar.</p>
+        </hl>
+
+    </div>
+    
+    {% endblock %}
+    </main>
+        <footer class="navbar navbar-default navbar-static-bottom">
+    <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+        © 2021 Copyright: ESILV Constantin Testu, Sara Vidal, Chanelle Wea
+    </div>
+    {% endblock %}
+</footer>
+</body>
+
+</html>
