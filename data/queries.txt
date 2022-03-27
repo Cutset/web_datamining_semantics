@@ -1,0 +1,55 @@
+Queries :
+
+6-a Montre trous les POI NOT WORKING
+SELECT ?subject WHERE { ?subject rdfs:label label:POI. }
+
+6-b Stations avec leur num et adresse
+
+PREFIX j.0: <http://www.owl-ontologies.com/unnamed.owl#>
+SELECT ?id_velo ?adress_velo WHERE { ?subject j.0:id_velo ?id_velo ; j.0:adress_velo ?adress_velo.}
+
+
+6-c Liste les musées d'art
+
+PREFIX j.0: <http://www.owl-ontologies.com/unnamed.owl#>
+SELECT ?id_musee ?nom_musee WHERE {?subject j.0:id_musee ?id_musee ; j.0:nom_musee ?nom_musee. FILTER regex(?nom_musee,"art")}
+
+6-d Monuments entre le 13e et 16e
+
+PREFIX j.0: <http://www.owl-ontologies.com/unnamed.owl#>
+SELECT ?id_mon ?nom_mon ?siecle WHERE {?subject j.0:id_mon ?id_mon; j.0:nom_mon ?nom_mon ; j.0:siecle ?siecle. FILTER(13<=?siecle && ?siecle<=16)}
+
+7-a Monuments qui ont soit un historique soit une adresse
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX j.0: <http://www.owl-ontologies.com/unnamed.owl#>
+SELECT ?id_mon ?nom_mon ?historique ?adresse_mon WHERE {?subject j.0:id_mon ?id_mon; j.0:nom_mon ?nom_mon.
+					  OPTIONAL{?subject j.0:historique ?historique} 
+					  OPTIONAL{?subject j.0:adresse_mon ?adresse_mon}
+					}
+
+7-b stations proches du monument "Maison Renaissance" et qui sont en vert
+SELECT ?nom ?availability_code WHERE {{?subject rdfs:label label:station_velo .}
+					{?subject p:arrondissement arrondissement:6.}
+					UNION
+					{?subject p:status ?availability_code. FILTER(?availability_code != "Orange")}
+				     }
+
+7-c   pas sûre qu'elle soit bonne po compris  ---- Table des vélos avec le nombre de places dispos, nbvelos dispo, numéro
+CONSTRUCT {?subject foaf:named ?nom ; foaf:places_dispo ?available_bike_stands ; foaf:velo_dispo ?available_bike}
+	WHERE {?subject p:named ?nom ; p:places_dispo ?available_bike_stands ; p:velo_dispo ?available_bike}
+
+7-d  Demande si mainson renaissance a un historique
+
+PREFIX j.0: <http://www.owl-ontologies.com/unnamed.owl#>
+ASK {?subject j.0:nom_mon "Maison Renaissance" ; j.0:historique ?historique}
+
+7-e Décrit la station de vélo 10111
+
+PREFIX p: <http://www.owl-ontologies.com/unnamed.owl#>
+DESCRIBE ?subject WHERE {?subject p:id_velo "10111"}
+
+REGEX ARRONDISSEMENT STATION 
+'Lyon (\d)'
+
+REGEX SIECLE MONUMENTS

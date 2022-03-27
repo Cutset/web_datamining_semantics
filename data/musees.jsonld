@@ -1,0 +1,20 @@
+
+{
+    "@context":{
+        "@vocab":"http://www.owl-ontologies.com/unnamed.owl#",
+        "@base":"http://www.owl-ontologies.com/unnamed.owl#",
+        "id_musee":"id_musee",
+        "adresse_musee":"adresse_musee",
+        "lat_musee":"lat_musee",
+        "lng_musee":"lng_musee",
+        "codep_musee":"codep_musee",
+        "commune_musee":"commune_musee",
+        "nom_musee":"nom_musee",
+        "url_musee":"url_musee"
+
+    
+    
+    },
+	"musees":[{"id_musee":"M1031","adresse_musee":"20 place des Terreaux","lat_musee":"45,767177","lng_musee":"4,833576","codep_musee":69001.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e des beaux-arts","url_musee":"www.mba-lyon.fr\/fr"},{"id_musee":"M1032","adresse_musee":"1 place du Petit Coll\u00e8ge","lat_musee":"45,763856","lng_musee":"4,827749","codep_musee":69005.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e Gadagne","url_musee":"www.gadagne-lyon.fr\/"},{"id_musee":"M1034","adresse_musee":"14 avenue Berthelot","lat_musee":"45,747037","lng_musee":"4,835797","codep_musee":69007.0,"commune_musee":"Lyon","nom_musee":"centre d'histoire de la r\u00e9sistance","url_musee":"www.chrd.lyon.fr\/"},{"id_musee":"M1036","adresse_musee":"17 rue Cl\u00e9berg","lat_musee":"45,760529","lng_musee":"4,82004","codep_musee":69005.0,"commune_musee":"Lyon","nom_musee":"Lugdunum, mus\u00e9e et th\u00e9\u00e2tres romains","url_musee":"lugdunum.grandlyon.com\/fr\/"},{"id_musee":"M1038","adresse_musee":"34, rue de la Charit\u00e9","lat_musee":"45,753117","lng_musee":"4,831633","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e historique des tissus","url_musee":"www.museedestissus.fr\/"},{"id_musee":"M1039","adresse_musee":"3 quai des C\u00e9lestins","lat_musee":"45,760912","lng_musee":"4,831492","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e des hospices civils de Lyon","url_musee":"www.chu-lyon.fr\/fr\/musee-des-hcl"},{"id_musee":"M7042","adresse_musee":"86 quai Perrache","lat_musee":"45,73319","lng_musee":"4,818042","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e des Confluences","url_musee":"www.museedesconfluences.fr\/"},{"id_musee":"M1033","adresse_musee":"quai Charles de Gaulle","lat_musee":"45,784864","lng_musee":"4,852921","codep_musee":69006.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e d'art contemporain","url_musee":"www.mac-lyon.com\/fr"},{"id_musee":"M1128","adresse_musee":"358 avenue de Champagne","lat_musee":"45,790491","lng_musee":"4,797411","codep_musee":69009.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e des sapeurs-pompiers de Lyon","url_musee":"museepompiers.com\/"},{"id_musee":"M1127","adresse_musee":"13 rue de la Poulaillerie","lat_musee":"45,764219","lng_musee":"4,834752","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e de l'imprimerie et de la communication graphique","url_musee":"www.imprimerie.lyon.fr\/fr"},{"id_musee":"M7042","adresse_musee":"86 quai Perrache","lat_musee":"45,73319","lng_musee":"4,818042","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e Guimet","url_musee":"www.museedesconfluences.fr\/"},{"id_musee":"M1037","adresse_musee":"34 rue de la charit\u00e9","lat_musee":"45,75342","lng_musee":"4,83153","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9e des arts d\u00e9coratifs","url_musee":"www.museedestissus.fr\/"},{"id_musee":"M7042","adresse_musee":"86 quai Perrache","lat_musee":"45,73319","lng_musee":"4,818042","codep_musee":69002.0,"commune_musee":"Lyon","nom_musee":"mus\u00e9um d'histoire naturelle","url_musee":"www.museedesconfluences.fr\/"}]
+	
+}
