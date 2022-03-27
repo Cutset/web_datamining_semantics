@@ -1,0 +1,240 @@
+,nom_mon,adresse_mon,commune_mon,historique,id_mon,siecle,lat_mon,lng_mon,type
+0,Immeuble,place Bellecour ,Lyon,,PA00117854,,45.757927,4.829617,monument_historique
+1,Immeuble,place Le-Viste ,Lyon,,PA00117868,,45.757581,4.835312,monument_historique
+2,Palais du Commerce,place des Cordeliers ,Lyon,Edifié de 1855 à 1862 à la demande de préfet Vaisse. Inauguré par l'empereur Napoléon III et l'impératrice Eugénie en 1860. Représentatif des goûts et des mentalités du Second Empire.,PA00117979,19,45.7639848692,4.83635653244,monument_historique
+3,Maison,40 rue Saint-Jean,Lyon,,PA00117954,,45.7626871244,4.82752525873,monument_historique
+4,Maison,42 rue Saint-Jean,Lyon,,PA00117956,,45.7625127768,4.82724166792,monument_historique
+5,Château de la Motte,37 rue du Repos,Lyon,"Ce château du 15e, à la transition entre la résidence fortifiée médiévale et la maison des champs de la Renaissance, est la principale maison-forte conservée à Lyon. Lédifice présente un plan complexe formé par lassociation de deux corps de logis principaux, est et ouest, flanqués de tours, reliés par des corps de bâtiment ou des courtines autour dune cour irrégulière. Bien quayant subi de profondes transformations intérieures, les structures dorigine, notamment la distribution des pièces, peuvent aisément être retrouvées.",PA00117786,15,45.744611394,4.85262250796,monument_historique
+6,maison des Gondi,"15, 17 montée Saint-Barthélémy",Lyon,,PA00117924,,45.7643374158,4.82656287202,monument_historique
+7,Maison,4 rue Saint-Jean,Lyon,,PA00117930,,45.7641049424,4.8279634023,monument_historique
+8,Eglise Saint-Just,"39, 41 rue des Farges",Lyon,,PA00117799,16,45.7560192145,4.82042219775,monument_historique
+9,Immeuble,5 place Bellecour,Lyon,,PA00117826,,45.756681,4.831715,monument_historique
+10,Immeuble,place Bellecour ,Lyon,,PA00117846,,45.634884,4.38167,monument_historique
+11,Edifice gallo-romain de forme rectangulaire,,Lyon,,PA00117793,2,45.7611193596,4.81655483631,monument_historique
+12,Maison,19 rue du Boeuf,Lyon,,PA00117887,,45.7624019851,4.82689762023,monument_historique
+13,Fontaine du Taurobole,rue des Macchabées,Lyon,,PA00117808,19,45.7557661668,4.81655089658,monument_historique
+14,Hôpital militaire Villemanzy,montée Saint-Sébastien,Lyon,,PA00117814,18,45.7716322517,4.83581968415,monument_historique
+15,Maison,3 rue des Trois-Maries,Lyon,,PA00117969,,45.763110658,4.82852861999,monument_historique
+16,Maison,21 rue des Trois-Maries,Lyon,,PA00117974,,45.762405443,4.8283624329,monument_historique
+17,Maison,26 rue Saint-Jean,Lyon,,PA00117943,,45.7631644779,4.82771561182,monument_historique
+18,Maison,34 rue Saint-Jean,Lyon,,PA00117951,,45.7628675759,4.82769510197,monument_historique
+19,Maison,1 place du Gouvernement,Lyon,,PA00117909,,45.7638702517,4.82834258817,monument_historique
+20,Immeuble,34 place Bellecour,Lyon,,PA00117856,,45.758145,4.830236,monument_historique
+21,Ancien château de la Tourette,,Lyon,,PA00117787,16,45.758,4.835,monument_historique
+22,Immeuble,11 place Bellecour,Lyon,,PA00117832,,45.756681,4.831715,monument_historique
+23,Immeuble,30 place Bellecour,Lyon,,PA00117850,,45.757084,4.829697,monument_historique
+24,Immeuble,3 rue Boissac,Lyon,,PA00117861,,45.756177,4.830279,monument_historique
+25,Maison,25 rue du Boeuf,Lyon,,PA00117890,,45.7623166506,4.82666686418,monument_historique
+26,Maison,2 rue de la Bombarde,Lyon,,PA00117893,,45.761724,4.826925,monument_historique
+27,Immeuble,10 rue du Plat ,Lyon,,PA69000030,18,45.7583238077,4.82916644437,monument_historique
+28,Tour du guet de Montvert (restes),,Lyon,,PA00117992,,45.758,4.835,monument_historique
+29,Maison,3 rue Soufflot,Lyon,,PA00117967,,45.7642854606,4.82787030397,monument_historique
+30,Maison,2 rue Mandelot,Lyon,,PA00117915,,45.761359,4.827626,monument_historique
+31,Maison,28 rue Saint-Jean,Lyon,,PA00117945,,45.7631148291,4.82765246358,monument_historique
+32,Palais archiépiscopal (ancien),avenue Adolphe-Max,Lyon,,PA00117978,15,45.7601269777,4.82781397336,monument_historique
+33,Immeuble,16 rue Juiverie,Lyon,,PA00118126,17,45.765198,4.827323,monument_historique
+34,"Hôtel de Gadagne, actuellement musées Gadagne","10, 12, 14 rue Gadagne",Lyon,Le musée Gadagne abrite deux entités : le musée d'histoire de Lyon (ancien musée historique de Lyon) et le musée des marionnettes du monde.,PA00117816,15,45.7640902687,4.82761655427,monument_historique
+35,Immeuble,place Bellecour ,Lyon,,PA00117853,,45.756681,4.831715,monument_historique
+36,Maison,68 rue Mercière ,Lyon,,PA00117917,16,45.7619120735,4.83273404113,monument_historique
+37,Maison,30 rue Saint-Jean,Lyon,,PA00117947,,45.763033746,4.82768853245,monument_historique
+38,Maison,6 rue Saint-Jean,Lyon,,PA00117932,,45.7639314892,4.8280603019,monument_historique
+39,Maison,31 rue du Boeuf,Lyon,,PA00117892,17,45.7620292263,4.82634166677,monument_historique
+40,Maison,5 rue de Gadagne,Lyon,,PA00117906,,45.764322,4.827697,monument_historique
+41,Maison,6 rue de Gadagne,Lyon,,PA00117907,,45.764396115,4.82761937455,monument_historique
+42,Maison,4 rue de la Bombarde,Lyon,,PA00117894,,45.761724,4.826925,monument_historique
+43,Maison,10 rue de la Bombarde,Lyon,,PA00117897,,45.7618974954,4.82670055912,monument_historique
+44,Maison,4 rue de la Fronde,Lyon,,PA00117904,,45.7640278704,4.82792630502,monument_historique
+45,Immeuble,1 montée Saint-Barthélémy,Lyon,,PA00117872,,45.763871,4.826207,monument_historique
+46,Hangar du Premier-Film,21 rue du Premier-Film,Lyon,"""Le hangar du Premier Film, situé à côté du Château Lumière, est le seul vestige subsistant des anciennes usines Lumière. Le site était à l'origine une chapellerie que les frères Lumière avait acquise en 1881 pour monter leur usine de plaques photographiques. Du vaste ensemble capable d'abriter près de 300 employés, ne subsiste que ce hangar, couvert de tôle ondulée, autrefois encastré dans d'autres bâtiments et qui communiquait avec les autres parties de l'usine. Il s'agit d'un espace rectangulaire couvert de sa charpente d'origine composée de quatre demi-fermes, et limité par deux murs aux ouvertures rectangulaires. Le mur de clôture de l'usine et le portail ont disparu, mais la charpente est bien celle que l'on voit dans le film ""La sortie des Usines Lumière"", tourné le 19 mars 1895 par Louis Lumière. Ce hangar est le support matériel de la première image du premier film de l'histoire du cinéma. Le hangar a été restauré en 1998 et le site, aménagé par l'architecte Pierre Colboc, sert d'entrée à une salle de projection de l'Institut Lumière.""",PA00118154,19,45.745226,4.868953,monument_historique
+47,Mur romain dit mur Cléberg,à l'angle Ouest de la rue Cléberg ,Lyon,,PA00117976,2,45.7606372527,4.82134955873,monument_historique
+48,"Hôtel dit du Gouverneur Militaire de Lyon, ancien hôtel particulier des barons Vitta",38-38bis avenue du Maréchal-Foch ,Lyon,"Construit par larchitecte Jean-Marie Anselme Lablatinière pour Jonas Vitta, en 1859, cet ensemble est un exemple complet dhôtel particulier du Second Empire, à Lyon. Il est très intéressant par son décor et la grande qualité de son architecture éclectique ainsi que sa situation dans lurbanisation issue du plan Morand.",PA69000051,19,45.7709836037,4.84288719814,monument_historique
+49,"Immeuble dit Les Greniers d'Abondance, actuellement siège de la DRAC (Direction régionale des affaires culturelles)",6 quai Saint-Vincent,Lyon,"Ce grenier fut construit, entre 1722 et 1728, par l'architecte Voyer Claude Bertaud de la Vaure afin de répondre, en cas de disette, à la consommation annuelle des Lyonnais. Repère majeur au sein du grand paysage des quais de Saône, sa composition architecturale très sobre et imposante témoigne des qualités constructives du premier quart du 18ème siècle. Les trois niveaux voûtés d'arêtes sur deux piles de colonnes attestent ces prouesses techniques. Le grand escalier avec sa ferronnerie de belle facture donne, également, le niveau d'attention soignée porté à un simple grenier à blé. Enfin, ses grands volumes ainsi que ses larges couloirs laissant deviner les files de colonnes confèrent à cet édifice un intérêt certain.",PA00117876,18,45.769624102,4.8150703722,monument_historique
+50,Palais de Justice de Lyon,1 rue du Palais-de-Justice ,Lyon,"Projet de 1828. Les travaux commencent en 1835, inauguration en 1845. Bâtiment conçu par le père de Victor Baltard, Louis-Pierre, qui construit essentiellement à Lyon (grenier à sel, prison, arsenal). Palais de Justice de style plus néo-antique que néo-classique. Architecture intérieure demeurée intacte.",PA00117980,19,45.7618852126,4.82812103005,monument_historique
+51,Grand Temple protestant,6 cours de la Liberté ,Lyon,"Le temple, édifice majeur de l'architecture religieuse française du 19ème siècle, fut édifié selon les plans de l'architecte Gaspard André. La façade sur le quai est composée d'un corps central imposant, flanqué de deux ailes concaves, et cantonné de deux pilastres colossaux. Le portail est surmonté d'une frise ornées de fleurs sculptées. Les rampants du pignon sont garnis d'une riche corniche. La façade sur le cours est plus simple. Le plan de la salle de culte est en croix grecque, les bras ouest, nord et sud étant occupés par de grandes tribunes. La salle renferme un orgue, la chaire, avec son dais monumental, la table de communion et le sol est en pente. La coupole sur pendentifs est ouverte au sommet par un oculus. Le décor trahit des influences orientales. Enfin, la présence d'une « bibliothèque populaire » dans les espaces communs sur le cours reflète l'influence du protestantisme social.",PA00117811,19,45.7618881378,4.84162223965,monument_historique
+52,Hôtel de Cuzieu (ancien),30 rue Sainte-Hélène,Lyon,,PA00117815,18,45.7538919461,4.83129313195,monument_historique
+53,Cathédrale Saint-Jean,,Lyon,,PA00117785,,45.7607143707,4.82738346499,monument_historique
+54,Immeuble,8 place Bellecour ,Lyon,,PA00117829,,45.756681,4.831715,monument_historique
+55,Immeuble,23 place Bellecour,Lyon,,PA00117842,,45.756519,4.832583,monument_historique
+56,Immeuble dit Maison Thomassin,2 place du Change ,Lyon,Plafond peint : 4e quart 13e siècle,PA00117901,13,45.763509,4.828946,monument_historique
+57,"Ancienne école de tissage, actuellement lycée technique d'enseignement",43 cours Général-Giraud,Lyon,"Ecole municipale de tissage construite sur les pentes de la colline de la Croix-Rousse par l'architecte Tony Garnier de 1930 à 1933, suivant des plans définitifs datant de 1927 et divers avant-projets de 1905 et 1921. Derrière le bâtiment des salles de cours, l'école est traitée comme un bâtiment industriel, les ateliers couverts de toitures en sheds (sert aujourd'hui de lycée d'enseignement technique). La villa du directeur de l'école, d'un style plus moderne, est attribuée à un collaborateur de Tony Garnier, l'architecte Jean Faure. Edifice représentatif des préoccupations économiques et sociales du début 20e siècle.",PA00118135,20,45.7697444739,4.82305929045,monument_historique
+58,Statue de Louis XIV,,Lyon,"Une première statue de Louis XIV avait été érigée place Bellecour en 1691 par Martin Desjardins, puis complétée en 1721 par des reliefs des frères Coustou placés sur son socle, la Saône et le Rhône. Cette statue fut fondue en 1792, les reliefs latéraux échappant à la destruction. Dès 1818, les Lyonnais émirent le voeu d'une nouvelle statue équestre, dont le dessin et la fonte furent confiés au sculpteur lyonnais Lemot, auteur du « Henri IV » du Pont Neuf à Paris. Celui-ci s'adjoignit l'aide de l'architecte Maximilien Hurtault pour le piédestal sur lequel il replaça les reliefs de Coustou. L'ensemble fut inauguré en 1825, puis doté de grilles de protection en 1827.",PA69000054,19,45.7578339765,4.83219257277,monument_historique
+59,Hôtel de l'Europe,1 rue Colonel-Chambonnet ,Lyon,"Ancien hôtel particulier du 17e siècle, construit à l'emplacement de l'ancienne douane du port du Roy. Au début du 18e siècle, hôtel décoré par le peintre lyonnais Daniel Sarrabat. Maison transformée en hôtel de voyageurs à la fin du 18e siècle ou au début du 19e siècle. Architecture extérieure transformée (surélévation des toitures, verrière de la salle de bal construite entre 1873 et 1900) , mais décor intérieur d'époque Louis XIV bien conservé. Occupé depuis 1975 par les services annexes du tribunal de grande instance de Lyon.",PA00135657,17,45.758942,4.830399,monument_historique
+60,Immeuble,12 place Bellecour ,Lyon,,PA00117833,,45.761686,4.834173,monument_historique
+61,Immeuble,15 place Bellecour ,Lyon,,PA00117834,,45.756681,4.831715,monument_historique
+62,Immeuble,17 place Bellecour,Lyon,,PA00117836,,45.756681,4.831715,monument_historique
+63,Immeuble,36 place Bellecour,Lyon,,PA00117858,,45.758532,4.830467,monument_historique
+64,Maison,2 rue Saint-Jean,Lyon,,PA00117928,,45.7641693107,4.82812610029,monument_historique
+65,Maison,5 rue Saint-Jean,Lyon,,PA00117931,,45.7641111684,4.82837416709,monument_historique
+66,Maison,13 rue Saint-Jean,Lyon,,PA00117937,,45.7634847287,4.82820126902,monument_historique
+67,Maison,16 rue Saint-Jean,Lyon,,PA00117939,,45.7636242325,4.82797942245,monument_historique
+68,maison aux Lions,23 rue Juiverie,Lyon,,PA00117913,16,45.7647750576,4.82743810732,monument_historique
+69,Immeuble,19 place Tolozan,Lyon,,PA00117878,18,45.7693317715,4.83725750337,monument_historique
+70,Maison,3 rue de la Baleine,Lyon,,PA00117884,,45.7632578367,4.82858144425,monument_historique
+71,Eglise Saint-Denis-de-la-Croix-Rousse,rue Hénon,Lyon,,PA00117796,19,45.7796866182,4.83183035958,monument_historique
+72,Maison,1 rue Soufflot,Lyon,,PA00117966,,45.76428303,4.82810793396,monument_historique
+73,Maison,19 rue des Trois-Maries,Lyon,,PA00117973,,45.7624924135,4.82839773542,monument_historique
+74,Hôtel-Dieu,rue de l'Hôpital,Lyon,"L'Hôtel-Dieu résulte principalement de trois campagnes de travaux. De l'hôpital du 15ème siècle, il ne subsiste que des vestiges. Au 17ème siècle, l'hôtel-Dieu se développe selon un plan en croix intitulé « les Quatre-Rangs » avec, annexés, les bâtiments qui longent la grande rue de l'Hôpital, et la chapelle, datant du milieu du 17ème siècle, ornée de deux élégants clochers monumentaux. Les travaux de la grande aile Soufflot débuteront au milieu du 18ème siècle jusqu'au 19ème siècle. Le grand dôme sera commencé en 1750 et achevé en 1764. Il aura pour fonction d'évacuer les miasmes et sera accompagné d'une chapelle. Les bâtiments perpendiculaires abritent le grand réfectoire au rez-de-chaussée. Le réfectoire des Soeurs est d'une taille inhabituelle pour l'époque. Le projet de Soufflot ne sera finalement finalisé qu'au milieu du 19ème siècle avec, notamment, l'aménagement de promenoirs. La fin du 19ème siècle verra l'achèvement de l'Hôtel-Dieu. Cette dernière tranche de travaux sera ponctué de la construction d'un dôme, le dôme Pascalon du nom de son architecte. L'intérieur est pourvu de poutrelles métalliques remarquables. Au milieu du 20ème siècle, l'hôpital va accueillir une partie des services de la Charité dont les décors les plus intéressants, notamment ceux de la salle des archives, de la salle du conseil d'administration et de l'apothicairerie sont installés dans deux ailes des Quatre-Rangs. Ainsi naît le musée des hospices civils, en 1935-36. Le 20ème siècle reste quant à lui assez pauvre en remaniements, l'essentiel étant consacré à moderniser l'hôpital et à le rénover.",PA00117821,17,45.758696429,4.83647631257,monument_historique
+75,Temple de Cybèle,,Lyon,,PA00117988,2,45.758,4.835,monument_historique
+76,Maison,46 rue Saint-Jean,Lyon,,PA00117958,,45.7623574502,4.82713508278,monument_historique
+77,Maison,48 rue Saint-Jean,Lyon,,PA00117959,,45.7622677408,4.82740086626,monument_historique
+78,Maison,66 rue Saint-Jean,Lyon,,PA00117965,,45.7617298285,4.82720731022,monument_historique
+79,Maison,1 place Neuve-Saint-Jean,Lyon,,PA00117918,,45.7625147665,4.82744948206,monument_historique
+80,Maison,2 place Neuve-Saint-Jean,Lyon,,PA00117919,,45.7626195539,4.82719961081,monument_historique
+81,"Eglise Notre-Dame, sur l'île Barbe",,Lyon,"Principal vestige de l'ancienne abbaye de l'Ile Barbe (voir aussi : immeuble dit Le Chatelard). Clocher, choeur et mur nord de la fin du 11e siècle, cloître des 12e et 13e siècles",PA00118134,11,45.7973994183,4.83351505688,monument_historique
+82,Ancienne condition publique des Soies,7 rue Saint-Polycarpe,Lyon,"Construite en 1814, sa fonction était d'obtenir un état stable de l'humidité de la soie pour fixer le poids marchand, la dessication étant obtenue dans de grandes salles sous contrôle calorimétrique et hygrométrique. Au bas des pentes de la Croix-Rousse, l'édifice fut dressé sur les plans de l'architecte Joseph-Jean Gay (1775-1832) , la direction des travaux, assurée par l'architecte Jean-Joseph Pilliet. Isolé à l'origine des immeubles voisins par sécurité, le bâtiment est d'allure officielle, rectangulaire, s'élevant jusqu'au troisième étage. La façade sur rue imite le rythme ternaire des palais italiens. Son rez-de-chaussée est simplement appareillé, avec un chaînage d'angle harpé ; la porte d'entrée offre un arc cintré richement sculpté de motifs de feuilles de mûrier, de vers à soie et de lions. A droite, fut ajouté en 1924 sur la façade un bas-relief de Pasteur, en bronze. Le premier étage présente une arcature de baies cintrées retombant sur des piliers. Au-dessus des fenêtres du deuxième étage, séparées par des ouvertures, le couronnement de la façade est constitué d'un attique coiffé d'un toit avec auvent aux solives décorées. La cour intérieure est scandée par des ouvertures en arcades. Un escalier monumental, à trois volées et vide central, dessert les étages. Agrandie et modernisée en 1884 par l'architecte Pascalon, la Condition subira le déclin des soieries concurrencées au début du 20e siècle par les progrès de la chimie. Elle abritera dans les années 1950 le Centre de Recherches de la Soierie et des Industries Textiles, mais sera complètement désaffectée en 1976. Le bâtiment a été réhabilité par le cabinet d'architectes lyonnais Mortamet-Vidal-Manhés en 1982, et a été transformé en centre social et culturel (médiathèque).",PA00117789,19,45.7690474243,4.83454783345,monument_historique
+83,"Ancienne Loge du Change, ancien Temple protestant",,Lyon,"Cet édifice du 18ème siècle fut réalisé sur des dessins de Soufflot. Délaissé au 19ème siècle, il fut affecté au culte protestant, en novembre 1803. De profondes modifications affectèrent alors le bâtiment. La terrasse fut transformée en remplaçant les degrés par un escalier central raide. La façade correspond aux dispositions du 18ème siècle et témoigne d'une forte influence des façades italiennes du 16ème siècle sur une structure « à la française ». La loge du change actuelle demeure un témoin de l'architecture du 18ème siècle et un jalon important de la carrière de Soufflot à Lyon.",PA00117989,18,45.758,4.835,monument_historique
+84,Villa dite Gorge de Loup,55 rue Sergent-Michel-Berthet,Lyon,,PA00118110,16,45.7665941665,4.80569064972,monument_historique
+85,Maison,50 rue Saint-Jean,Lyon,,PA00117960,,45.76221866,4.82736975192,monument_historique
+86,Maison,1 rue des Trois-Maries,Lyon,,PA00117968,,45.7631813923,4.82856146895,monument_historique
+87,Immeuble,21 place Bellecour,Lyon,,PA00117840,,45.756467,4.832862,monument_historique
+88,Immeuble,22 place Bellecour,Lyon,,PA00117841,,45.756501,4.832677,monument_historique
+89,Immeuble,33 place Bellecour ,Lyon,,PA00117855,,45.75796,4.830126,monument_historique
+90,Maison de la Providence (ancienne),27 montée Saint-Barthélémy,Lyon,,PA00117925,17,45.7628607319,4.82566012042,monument_historique
+91,Maison,8 rue Saint-Jean,Lyon,,PA00117934,,45.7638460005,4.82807472496,monument_historique
+92,Maison,29 rue du Boeuf,Lyon,,PA00117891,,45.7621421476,4.82651772801,monument_historique
+93,Maison,2 place du Gouvernement,Lyon,,PA00117910,,45.7638296406,4.82855743042,monument_historique
+94,Maison,18 rue Saint-Jean,Lyon,,PA00117940,,45.7635670173,4.82798257886,monument_historique
+95,Atelier Mattelon,10 rue Richan,Lyon,"Cet atelier est considéré comme un témoignage de l'industrie à domicile du tissage de la soie, à Lyon, aux 19ème et 20ème siècles. Il est caractéristique des immeubles canuts de Lyon de la première moitié du 19ème. En 1878, le tisseur Pierre Millan installa l'atelier principal au deuxième étage de l'immeuble, un atelier annexe, deux pièces pour le dévidage et une soupente pour les ouvriers se partageaient le troisième. En 1939, Georges Mattelon acheta l'immeuble et fit construire en 1948-1951, un atelier de métiers mécaniques à l'arrière de la parcelle tout en continuant la production traditionnelle sur les métiers à bras, toujours conservés à ce jour.",PA69000043,19,45.7801095009,4.83541716576,monument_historique
+96,Fontaine Bartholdi,place des Terreaux,Lyon,"Fontaine présentée dans la galerie des machines de l'Exposition Universelle de 1889. Conçue par Bartholdi, réalisée par Gaget et Gautier. Erigée place des Terreaux en 1892.",PA00118120,19,45.7676287249,4.83345402462,monument_historique
+97,Café,23 quai Augagneur,Lyon,"Café créé au début du 20e siècle. Le décor intérieur conserve une série de panneaux en céramique représentant des paysages de la ville de Lyon et de ses environs : l'Ile Barbe, la passerelle Saint-Georges, les aqueducs de Chaponost, le pont de la Guillotière et le parc de la Tête d'Or.",PA00117784,20,45.758062,4.840956,monument_historique
+98,Ancienne chartreuse (ou Maison et Institution des Chartreux),58 rue Pierre-Dupont,Lyon,"Chartreuse située aux abords de l'église Saint-Bruno (Lyon 1er) classée depuis 1911. Bâtiments actuels utilisés comme école secondaire privée. Abbaye du 17e siècle : le petit cloître, intégralement conservé, date des années 1630 ; maison des Hôtes fin 17e-début 18e siècle ; la chapelle des Hôtes a conservé son décor de stuc du milieu du 18e siècle ; le grand réfectoire du 17e siècle a conservé ses boiseries ; l'ancienne salle capitulaire du 17e siècle a un décor de lambris ; la petite maison est du 17e siècle, mais les intérieurs ont été transformés. Chapelle des Chartreux construite dans le troisième quart du 19e siècle (1860-1864) par Tony Desjardins.",PA00117921,17,45.77181,4.822452,monument_historique
+99,Maison,36 rue Saint-Jean,Lyon,,PA00117952,,45.7627799878,4.82749742264,monument_historique
+100,Maison,14 rue Lainerie,Lyon,,PA00117914,15,45.76504,4.827996,monument_historique
+101,Maison,7 rue de Gadagne,Lyon,,PA00117908,,45.764322,4.827697,monument_historique
+102,Eglise Saint-Pierre-des-Terreaux,,Lyon,,PA00117803,,45.758,4.835,monument_historique
+103,Théâtre des Célestins,place des Célestins ,Lyon,"Le théâtre a été édifié de 1873 à 1877 par Gaspard André. Reconstruit à l'identique après un incendie en 1881, il n'a guère subi de modifications et a conservé sa machinerie intacte (cintres, grils...). La grande salle à l'italienne a un plafond peint par J. Domer.",PA69000003,19,45.7599540214,4.83130370417,monument_historique
+104,Immeuble,18 place Bellecour,Lyon,,PA00117837,,45.756681,4.831715,monument_historique
+105,Immeuble,4 place Le-Viste,Lyon,,PA00117867,,45.758056,4.834618,monument_historique
+106,Maison La Prévôté,,Lyon,"L'abbaye de l'Île-Barbe a été sécularisée en 1551. L'île accueille alors de nombreux pèlerins et tout le nord de l'île était dévolu aux bâtiments monastiques, notamment le cloître dont l'emplacement est très bien identifié, en relation avec la salle du chapitre, l'église abbatiale et le réfectoire des moines. De cet ensemble architectural, connu par des représentations de l'époque, ne reste quasiment rien aujourd'hui , la grande église ayant été démantelée après la Révolution.  Un important vestige du cloître disparu a cependant pu être identifié grâce aux études archéologiques menées en 2011-2012 : la porte romane avec tympan historié, a ainsi été retrouvée sur son emplacement d'origine. Seule ouverture pratiquée dans une portion de mur d'environ 30 mètres, elle permettait de passer du bras sud du cloître à l'espace qui servait de réfectoire aux moines, ce mur servant également d'appui à la charpente qui protégeait ce couloir de circulation du cloître, devenu mur de clôture de la Prévôté sur l'impasse Saint-Loup.",PA69000059,17,45.758,4.835,monument_historique
+107,"Ancien Collège de la Trinité, actuellement lycée Ampère",,Lyon,Chapelle : 1er quart 17e siècle. Peintures murales faites par les artistes lyonnais Dupuy et Blanchel,PA00117788,17,45.758,4.835,monument_historique
+108,Immeuble,8 grande-rue des Feuillants,Lyon,,PA00118121,18,45.77012,4.83698,monument_historique
+109,Fontaine des Jacobins,place des Jacobins,Lyon,,PA00118152,19,45.7605106787,4.83353772443,monument_historique
+110,Logis de l'abbé d'Ainay,15 rue Vaubécour,Lyon,,PA00117881,,45.753612,4.82595,monument_historique
+111,Maison,29 rue Saint-Jean,Lyon,,PA00117946,16,45.7626680666,4.82782867513,monument_historique
+112,Maison,9 rue de la Bombarde,Lyon,,PA00117896,,45.761724,4.826925,monument_historique
+113,Théâtre de l'Eldorado,33 cours Gambetta ,Lyon,"Le théâtre de l'Eldorado, construit en 1894 et démoli en 1993. Des éléments de décors(mascarons et cadre de scène en staff, colonnes en fonte, luminaires) furent déposés afin d'être intégrés dans la nouvelle construction. La radiation de l'édifice est en conséquence prononcée.",PA00117990,19,45.754579,4.845965,monument_historique
+114,Immeuble,15 quai Lassagne ,Lyon,"L'immeuble fait partie du quartier Saint-Clair, aménagé et construit au cours du troisième quart du 18e siècle avec comme architectes Loyer et Morand. Décors des salons des premier et troisième étages dûs à Louis Guy, peintre de l'école lyonnaise (milieu 19e siècle). Salon classé caractéristique du style Second Empire à ses débuts.",PA00118125,18,45.770062,4.837746,monument_historique
+115,Immeuble,3 place Bellecour,Lyon,,PA00117824,,45.756681,4.831715,monument_historique
+116,Immeuble,place Le-Viste ,Lyon,,PA00117865,,45.761686,4.834173,monument_historique
+117,Immeuble,"17ter, 19ter rue des Macchabées",Lyon,,PA00117869,13,45.755715,4.815355,monument_historique
+118,Immeuble,4 rue de Thou,Lyon,,PA00117877,18,45.769623543,4.83670050309,monument_historique
+119,Immeuble,3 place du Change,Lyon,,PA00117863,,45.7642626006,4.82840875142,monument_historique
+120,Immeuble,10 rue Juiverie,Lyon,,PA00117864,16,45.7652626396,4.8273080144,monument_historique
+121,Maison,21 rue du Boeuf,Lyon,,PA00117888,,45.7623827976,4.82679313658,monument_historique
+122,Maison,11 rue de la Bombarde,Lyon,,PA00117898,,45.761724,4.826925,monument_historique
+123,Maison,28 rue Confort,Lyon,,PA00117902,17,45.75992,4.834545,monument_historique
+124,Immeuble,10 rue Lainerie,Lyon,"Une des rues les plus larges et les plus richement habitées de ce quartier pendant la Renaissance. Première maison du 16e siècle, très modifiée au début du 18e siècle (façade sur sur alignée en 1711). Mais certains éléments du 16e siècle sont conservés (escalier à vis daté de 1514).",PA00132824,16,45.7651373051,4.82781711119,monument_historique
+125,Vestiges du réservoir d'aqueduc dit de l'Angélique,,Lyon,Ces vestiges marquent l'aboutissement de l'aqueduc du Gier dans l'agglomération antique de Lugdunum.,PA00118137,Gallo-romain,45.758,4.835,monument_historique
+126,Edifice antique souterrain (vestiges),1 place des Minimes,Lyon,,PA00117792,,45.757155753,4.81999824788,monument_historique
+127,Eglise Saint-Nizier,,Lyon,,PA00117801,,45.7647167963,4.83371295897,monument_historique
+128,Eglise Saint-Paul,rue Saint-Paul ,Lyon,"Différentes époques de construction du 12e au 19e siècle. Chapelles des bas-côtés construites du 15e au 17e siècle (voûtes gothiques à liernes, tiercerons et clefs pendantes). Au 18e siècle, allongement de l'abside. Edifice en très mauvais état à la fin du 18e siècle : travaux de restauration au cours du 19e siècle par trois générations des architectes Benoit : façade occidentale, chapiteaux de la nef, peintures de Borel...",PA00117802,15,45.7666383512,4.82713196854,monument_historique
+129,Eglise Saint-Vincent,"58, 59 quai Saint-Vincent",Lyon,Cloître : 4e quart 18e siècle,PA00117805,18,45.767424,4.829271,monument_historique
+130,Fontaine,place du Maréchal-Lyautey,Lyon,,PA00117807,19,45.7685306363,4.84206185853,monument_historique
+131,Maison,1 place de la Baleine,Lyon,,PA00117882,,45.7633701509,4.82815767484,monument_historique
+132,Maison,16 rue du Boeuf,Lyon,,PA00117886,,45.7629796194,4.82664609744,monument_historique
+133,Maison,9 rue Saint-Jean,Lyon,,PA00117935,15,45.7639807625,4.82856314417,monument_historique
+134,Immeuble,8 rue du Plat ,Lyon,"Les deux immeubles occupent l'emplacement de deux maisons figurant sur le plan terrier de l'abbaye d'Ainay du 18e siècle. En 1766, Jean-Pierre Delglas, conseiller du roi et trésorier de France, y élève deux immeubles de rapport sur les plans de l'architecte Pierre Gabriel Bugniet. Ils se composent de deux logis principaux que relient des corps plus minces. Les cours sont rectangulaires. Des puits de lumière communs aux deux immeubles les complètent. Des allées cochères desservent les grandes cours qui, elles-mêmes, donnent accès aux quatre escaliers symétriques. Chacun des trois étages principaux est divisé en deux appartements. L'élévation néoclassique sur rue, les deux immeubles présentant une seule et même façade, est caractéristique de l'époque.",PA69000029,18,45.7585710615,4.82901816241,monument_historique
+135,Immeuble,24 place Bellecour,Lyon,,PA00117843,,45.756546,4.832443,monument_historique
+136,Immeuble,24bis place Bellecour,Lyon,,PA00117844,,45.756681,4.831715,monument_historique
+137,Immeuble,26 place Bellecour,Lyon,,PA00117847,,45.756827,4.830929,monument_historique
+138,Immeuble,3 rue Victor-Hugo,Lyon,,PA00117879,,45.754233,4.82989,monument_historique
+139,Ancien hôpital Debrousse,29 rue Soeur-Bouvier,Lyon,"Marie-Félicie Debrousse créa sa propre fondation destinée à la construction d'un établissement pour vieillards. Cinq pavillons sont construits entre 1904 et 1909 et l'inauguration officielle eut lieu en juillet 1911. En 1920, l'hospice est temporairement transformé en hôpital pour enfants. Des aménagements sont, alors, réalisés qui s'achevèrent en 1925. A partir des années 60, l'hôpital Debrousse connaît, à nouveau, de multiples agrandissements et modifications. L'hôpital est désaffecté depuis 2008, après transfert du service de pédiatrie. Les espaces intérieurs conservent des éléments dignes d'intérêt tels l'escalier d'honneur et les deux escaliers secondaires. Certaines menuiseries et serrureries d'origine sont également toujours en place de même que les sols en carreaux de grès polychrome dans le hall d'entrée, les couloirs et les salles des infirmiers.",PA69000050,20,45.7491758271,4.81109624538,monument_historique
+140,Immeuble,3 quai Lassagne ,Lyon,,PA00118122,18,45.772208318,4.83773144124,monument_historique
+141,Eglise Saint-Polycarpe,25 rue René-Leynaud,Lyon,,PA00117804,17,45.7701432107,4.83377562057,monument_historique
+142,Eglise Saint-Bonaventure,,Lyon,,PA00117794,14,45.7630536796,4.83696314718,monument_historique
+143,Cour des Voraces,9 place Colbert ,Lyon,,PA00118107,19,45.7719613934,4.83467168027,monument_historique
+144,Immeuble,13 quai Lassagne ,Lyon,,PA00118124,18,45.7704131185,4.83748566122,monument_historique
+145,Prison Montluc,4 rue Jeanne-Hachette,Lyon,"Bâtiment construit comme prison militaire en 1921, et officiellement supprimé en 1932. L'édifice fut réquisitionné par les Allemands en 1942 pour incarcérer Juifs, résistants et otages. Plus de 7000 personnes y ont été emprisonnées. Le mur d'enceinte a été percé de deux nouveaux accès mais le portail d'origine subsiste. Le bâtiment de détention comprend deux quartiers inégaux de part et d'autre d'un avant-corps abritant les escaliers.",PA69000040,20,45.7504109533,4.8617970925,monument_historique
+146,Villa,7 rue de la Mignonne,Lyon,"La troisième villa construite dans le quartier de Saint-Rambert par l'architecte Tony Garnier est une traduction concrète d'un élément de sa ""Cité Industrielle"". Réalisée en béton armé de 1917 à 1924, elle a été construite pour Melle Bachelot, une amie de l'architecte. Le jardin a disparu mais la terrasse subsiste avec une fontaine et sa vasque. L'atelier de la villa, qui avait disparu, a été restitué par le propriétaire en 1992.",PA00118138,20,45.7970563901,4.82693250459,monument_historique
+147,Immeuble,25 place Bellecour,Lyon,,PA00117845,,45.756681,4.831715,monument_historique
+148,Immeuble,27 place Bellecour,Lyon,,PA00117848,,45.756918,4.83044,monument_historique
+149,Maison,44 rue Saint-Jean,Lyon,,PA00117957,,45.7623746452,4.82742717386,monument_historique
+150,Immeuble,13 rue de la Poulaillerie,Lyon,,PA00117870,15,45.7643071437,4.83472271633,monument_historique
+151,Immeuble,27 quai Saint-Antoine ,Lyon,,PA00117871,16,45.7625011641,4.83225521799,monument_historique
+152,Maison du 17e siècle,26 quai de Bondy,Lyon,,PA00117900,17,45.7650315087,4.82886172735,monument_historique
+153,Immeuble,1 place Bellecour,Lyon,,PA00117822,,45.756681,4.831715,monument_historique
+154,Immeuble,7 place Bellecour,Lyon,,PA00117828,,45.756681,4.831715,monument_historique
+155,Immeuble,28 place Bellecour,Lyon,,PA00117849,,45.756959,4.830223,monument_historique
+156,Immeuble,place Le-Viste ,Lyon,,PA00117866,,45.760591,4.835746,monument_historique
+157,Manécanterie,10 place Saint-Jean,Lyon,,PA00117975,,45.760886,4.82648,monument_historique
+158,Sanctuaire de Fourvière,place de Fourvière,Lyon,"Cette oeuvre de Pierre Bossan, dont le chantier démarra en 1872, est d'un intérêt majeur dans l'architecture de la deuxième moitié du 19e siècle, à Lyon mais également en France. En effet, Bossan fut l'un des rares architectes de son temps a avoir su dépasser l'éclectisme dominant de l'époque par la recherche d'une nouvelle architecture. La basilique, avec sa structure extérieure, se présente comme une forteresse blanche et protectrice contrastant avec la richesse des mosaïques et des vitraux colorés qui ornent l'intérieur. La nouvelle église est inaugurée en juin 1896 et érigée en basilique en mars 1897.",PA00117783,19,45.762328,4.821952,monument_historique
+159,Hôtel de ville,,Lyon,,PA00117820,,45.7676435677,4.83443473392,monument_historique
+160,Maison,52 rue Saint-Jean,Lyon,,PA00117961,,45.7621740961,4.82729352844,monument_historique
+161,Maison,64 rue Saint-Jean,Lyon,,PA00117964,,45.7617667187,4.82726266178,monument_historique
+162,Maison,20 rue Saint-Jean,Lyon,,PA00117941,,45.7635032714,4.82795051251,monument_historique
+163,Egout romain,rue Roger-Radisson ,Lyon,,PA00117806,Antiquité,45.7612912773,4.82128789019,monument_historique
+164,Hôtel de Varey (ancien),2 rue Auguste-Comte ,Lyon,,PA00117819,18,45.7564994631,4.83195588082,monument_historique
+165,Immeuble,16 place Bellecour,Lyon,,PA00117835,,45.756681,4.831715,monument_historique
+166,Immeuble,30bis place Bellecour,Lyon,,PA00117851,,45.756681,4.831715,monument_historique
+167,Mur gallo-romain,rue Cléberg,Lyon,,PA00117977,Gallo-romain,45.7603462581,4.8221818866,monument_historique
+168,Immeubles,3 à 8 place Saint-Jean,Lyon,,PA00117873,,45.7612578496,4.82666898777,monument_historique
+169,Maison,5 rue du Boeuf,Lyon,,PA00117885,,45.763090449,4.82750390404,monument_historique
+170,"Ancien couvent des Dames de Sainte-Elisabeth, ancienne école nationale vétérinaire, actuellement Conservatoire national supérieur de musique et de danse de Lyon",2 quai Chauveau,Lyon,,PA00117791,17,45.7691258263,4.81176595475,monument_historique
+171,Site archéologique de Saint-Just Les Minimes (vestiges),,Lyon,,PA00117985,,45.7555345982,4.81756035221,monument_historique
+172,Hôtel de Sarron (ancien),46 rue de la Charité,Lyon,,PA00118136,,45.7525611191,4.83091172408,monument_historique
+173,Maison,41 rue Saint-Jean,Lyon,,PA00117955,,45.7612009284,4.82721513965,monument_historique
+174,Préfecture du Rhône,29 cours de la Liberté ,Lyon,,PA00117983,19,45.7607667274,4.84322113071,monument_historique
+175,Immeuble,4 place Bellecour,Lyon,,PA00117825,,45.756681,4.831715,monument_historique
+176,Immeuble,3 rue Bellecour,Lyon,,PA00117860,,45.7589968553,4.83067910857,monument_historique
+177,Maison,1 rue de la Baleine,Lyon,,PA00117883,,45.7632616109,4.82884529418,monument_historique
+178,Maison,11 rue Saint-Jean ,Lyon,"Cet immeuble, caractéristique de l'évolution du quartier Saint-Jean, dans le 5e arrondissement, illustre parfaitement l'expansion et l'enrichissement de la ville à la Renaissance. Maison construite à la fin du 15e et au début du 16e siècle par une famille illustre : les Sève. Surélevés au 17e siècle, les bâtiments présentent cependant une architecture homogène. L'ensemble se compose de trois corps de logis distincts séparés par deux cours à ciel ouvert. Sur la première cour, décor sculpté des façades et de la tour d'escalier (pinacle, accolades) de style gothique flamboyant. L'ensemble a subi quelques altérations.",PA00117936,15,45.7639103275,4.82833317427,monument_historique
+179,Maison,6 rue de la Fronde,Lyon,,PA00117905,,45.763988,4.827907,monument_historique
+180,Palais Saint-Pierre ou ancienne abbaye des Dames de Saint-Pierre,place des Terreaux,Lyon,,PA00117981,17,45.767476,4.833409,monument_historique
+181,Synagogue,13 quai Tilsitt,Lyon,,PA00117987,19,45.7570357797,4.8278969898,monument_historique
+182,Maison,17 rue des Trois-Maries,Lyon,,PA00117972,,45.7625755945,4.82843595482,monument_historique
+183,Maison,"10, 12 rue Saint-Georges",Lyon,,PA00117926,,45.7589075124,4.82518599262,monument_historique
+184,Immeuble,5 place du Gouvernement ,Lyon,"Mentionné dès la fin du 15e siècle, l'édifice subit des travaux d'envergure au milieu du 17e siècle, lui donnant son allure actuelle. Il présente une façade unique qui fut une innovation : la cage d'escalier sur plan carré marque l'axe de symétrie. Elle dépasse l'ensemble du bâtiment de deux niveaux, formant belvédère.",PA00118108,17,45.7635665546,4.82822946372,monument_historique
+185,Maison,4 quai Romain-Rolland ,Lyon,,PA00117923,,45.7642440248,4.82868418402,monument_historique
+186,Couvent des Carmélites (ancien),,Lyon,,PA00117790,,45.7714791131,4.82776449485,monument_historique
+187,Immeuble,70 rue Saint-Jean,Lyon,,PA00117874,,45.7612553083,4.82698818239,monument_historique
+188,Maison,7 rue des Trois-Maries,Lyon,,PA00117970,,45.7630077233,4.82852913699,monument_historique
+189,Tombeaux romains de Trion,place de Coulans,Lyon,,PA00117991,2,45.7552322962,4.8160854209,monument_historique
+190,"Ancien Hôtel de la Croix-Laval, actuellement Musée des Arts Décoratifs",30 rue de la Charité,Lyon,,PA00117818,18,45.7535259184,4.8316519482,monument_historique
+191,Immeuble,10 place Bellecour ,Lyon,,PA00117831,,45.756681,4.831715,monument_historique
+192,Immeuble,19 place Bellecour ,Lyon,,PA00117838,,45.756249,4.834545,monument_historique
+193,Immeuble,20 place Bellecour,Lyon,,PA00117839,,45.756681,4.831715,monument_historique
+194,Immeuble,31 place Bellecour,Lyon,,PA00117852,,45.757126,4.829574,monument_historique
+195,Maison Renaissance,21 rue Juiverie,Lyon,,PA00117912,16,45.7649493238,4.82751826187,monument_historique
+196,Ancien couvent de la Visitation,21bis-23 rue Roger-Radisson ,Lyon,"La construction de ce couvent a été réalisée en deux phases: de 1854 à 1857, pour le gros oeuvre, et de 1864 à 1865 pour le décor intérieur de l'église. Trois fonctions occupent cet édifice austère (couvent, église, pensionnat), dont le traitement architectural synthétise les styles roman et byzantin. Le couvent est constitué d'un ensemble de bâtiments carrés, de deux étages, organisés autour d'un cloître à galeries de plan carré, en brique et pierre jaune. Les élévations sont animées par une alternance de baies simples et jumelées. Le décor intérieur se résume, aujourd'hui, à la riche ornementation de l'église (peintures décoratives, mosaïques, maître-autel à gradins en marbre blanc).",PA69000049,19,45.7585809115,4.81652013634,monument_historique
+197,Maison,60 rue Saint-Jean,Lyon,,PA00117962,,45.7619708776,4.82706309962,monument_historique
+198,Maison,33 rue Saint-Jean,Lyon,,PA00117950,,45.762513542,4.82775887678,monument_historique
+199,Maison,3 place Neuve-Saint-Jean,Lyon,,PA00117920,,45.7626589714,4.8270777454,monument_historique
+200,Maison,1 rue Saint-Jean,Lyon,,PA00117927,,45.7642268585,4.82836605785,monument_historique
+201,Groupe épiscopal,,Lyon,,PA00117812,,45.7610961817,4.82778837003,monument_historique
+202,"Maison, dite aussi hôtel Bullioud",8 rue Juiverie,Lyon,,PA00117911,16,45.765198,4.827323,monument_historique
+203,Immeuble,9 quai Lassagne ,Lyon,,PA00118123,18,45.7711793174,4.83755347886,monument_historique
+204,Immeuble,25 rue Sala,Lyon,,PA00117875,18,45.755725,4.829771,monument_historique
+205,Eglise Saint-Georges,place François-Bertras,Lyon,,PA00117797,19,45.7576776523,4.82537205314,monument_historique
+206,Maison,62 rue Saint-Jean,Lyon,,PA00117963,,45.7618361282,4.82722479956,monument_historique
+207,Maison,31 rue Saint-Jean,Lyon,,PA00117948,,45.7625970821,4.82785264467,monument_historique
+208,Maison,14 rue de la Bombarde,Lyon,,PA00117899,,45.7619271201,4.82657206942,monument_historique
+209,Maison,3 rue Saint-Jean,Lyon,,PA00117929,,45.7641688623,4.82840747052,monument_historique
+210,Immeuble,6 place Bellecour,Lyon,,PA00117827,,45.756681,4.831715,monument_historique
+211,Immeuble,35 place Bellecour,Lyon,,PA00117857,,45.758336,4.83036,monument_historique
+212,Site archéologique de Fourvière,,Lyon,,PA00117984,Gallo-romain,45.758,4.835,monument_historique
+213,"Aqueduc gallo-romain du Gier dit aussi du Mont-Pilat (également sur communes de Brignais, Chaponost, Sainte-Foy-lès-Lyon, Mornant, Soucieu-en-Jarrest)",rue Roger-Radisson,Lyon,,PA00117782,2,45.760592,4.818123,monument_historique
+214,Maison,23 rue du Boeuf,Lyon,,PA00117889,,45.7623364957,4.8267398839,monument_historique
+215,Maison,8 rue de la Bombarde,Lyon,,PA00117895,,45.7618758905,4.82675457821,monument_historique
+216,"Ancien Hôtel Terminus, actuel ""Grand Hôtel Mercure Château Perrache""",12 cours de Verdun,Lyon,"Architecture représentative des constructions liées au chemin de fer du début du 20e siècle. Hôtel construit par Georges Chedanne en 1905 pour la Compagnie PLM. Décors intérieurs de style Art Nouveau exécutés par des artistes de renom, dont les peintres Henri Martin et Ernest Laurent, le sculpteur Edgar Boutry et peut-être l'ébéniste Majorelle.",PA69000004,20,45.750497,4.825687,monument_historique
+217,Maison,9 rue des Trois-Maries,Lyon,,PA00117971,,45.7629307379,4.82857141131,monument_historique
+218,Maison,6 rue Mandelot,Lyon,,PA00117916,,45.7611392531,4.8274224838,monument_historique
+219,Maison,7 rue Saint-Jean,Lyon,,PA00117933,15,45.762677,4.827688,monument_historique
+220,Maison,27 rue Saint-Jean,Lyon,,PA00117944,,45.7627347991,4.82789947137,monument_historique
+221,Eglise Saint-Martin-d'Ainay,,Lyon,,PA00117800,,45.7536863333,4.82734850348,monument_historique
+222,Amphithéâtre fédéral romain des Trois Gaules,rue des Tables-Claudiennes ,Lyon,,PA00117781,,45.7704930199,4.83027271536,monument_historique
+223,Eglise Saint-Bruno-les-Chartreux,,Lyon,"En 1733, F. Delamonce éleve le dôme. Soufflot termine les travaux. Au 19e siècle, Sainte-Marie-Perrin réalise la façade d'entrée.",PA00117795,17,45.7710760532,4.82237693107,monument_historique
+224,Hôtel d'Estaing,37 rue Saint-Jean,Lyon,,PA00117817,16,45.761536,4.827253,monument_historique
+225,Maison,32 rue Saint-Jean,Lyon,,PA00117949,,45.7629651593,4.82780722839,monument_historique
+226,Maison,39 rue Saint-Jean,Lyon,,PA00117953,,45.761385,4.827186,monument_historique
+227,Eglise Saint-Pothin,place Edgar-Quinet,Lyon,"En raison de l'accroissement de la population, une nouvelle paroisse est créée dans ce quartier et, sur un terrain cédé par les Hôpitaux civils de Lyon, le conseil municipal lance un concours remporté par l'architecte Christophe Crépet. Les travaux sont réalisés de 1841 à 1843, mais la construction nécessite rapidement des restaurations causées par des désordres architecturaux. De style néo classique, l'édifice présente un plan en croix latine, avec une coupole au-dessus de la croisée du transept et un clocher au-delà du chevet. La pierre de Villebois a été utilisée pour les éléments remarquables, dont la façade qui présente un portique hexastyle d'ordre dorique, surmonté d'un fronton triangulaire. L'intérieur présente une nef et deux collatéraux. Les voûtes en berceau sont supportées par une colonnade ionique. Christophe Crépet avait prévu un programme décoratif qui n'a jamais été réalisé par mesure d'économie. En 1892, les travaux de décor intérieur furent réalisés par l'architecte Sainte-Marie Perrin. Lucien Bégule réalise la verrière de la coupole qui reçoit un décor peint par Etienne Couvert, en 1893-1894. Le cul de four est orné au début du 20e siècle. Le programme de vitraux des murs latéraux a été réalisé par Emile Bégule et réalisé dans les ateliers grenoblois Balmet en 1932. En 1953, le réaménagement du choeur est confié à l'ACMH Pierre Prunet.",PA69000037,19,45.7661916527,4.84601091473,monument_historique
+228,Immeuble,2 place Bellecour,Lyon,,PA00117823,,45.756681,4.831715,monument_historique
+229,Immeuble,9 place Bellecour ,Lyon,,PA00117830,,45.756681,4.831715,monument_historique
+230,Immeuble,37 place Bellecour,Lyon,,PA00117859,,45.758717,4.830578,monument_historique
+231,Villa,5 rue de la Mignonne,Lyon,"La deuxième villa construite dans le quartier de Saint-Rambert par l'architecte Tony Garnier est une traduction concrète d'un élément de sa ""Cité Industrielle"". Réalisée en béton armé, elle est édifiée de 1912 à 1919 pour Catherine Garnier, épouse de l'architecte et artiste en poterie, le garage de l'édifice lui servant d'atelier. Catherine Garnier partageait cette maison avec André Tessier qu'elle épousera après la mort de Tony Garnier. Le jardin, conservé, est enserré dans un ensemble de murs de béton ajourés et de pergolas.",PA00118139,20,45.7968529623,4.82698226075,monument_historique
+232,"Immeuble dit le Chatelard, sur l'Ile Barbe",,Lyon,"Vestige de l'ancienne abbaye de l'île Barbe (voir aussi : église Notre-Dame). Eglise du 12e siècle, peintures du 14e siècle, immeuble du 16e siècle.",PA00118141,12,45.758,4.835,monument_historique
+233,Maison,110 quai Pierre-Scize,Lyon,,PA00117922,16,45.7671681199,4.82637348726,monument_historique
+234,Maison,15 rue Saint-Jean,Lyon,,PA00117938,,45.7634338734,4.82814357953,monument_historique
+235,Maison,2 rue de la Fronde,Lyon,,PA00117903,,45.7640467208,4.82813259642,monument_historique
+236,Immeuble,8 rue Boissac,Lyon,,PA00117862,18,45.756177,4.830279,monument_historique
+237,Maison,24 rue Saint-Jean,Lyon,,PA00117942,,45.7632414949,4.82785117349,monument_historique
+238,Chapelle Saint-Alban,,Lyon,"La chapelle Saint-Alban fut menacée dès la fin des années 1950 par un projet municpal visant à rectifier un virage. Après l'échec d'un projet de déplacement, l'église fut démolie en novembre 1971.",PA69000045,,45.758,4.835,monument_historique

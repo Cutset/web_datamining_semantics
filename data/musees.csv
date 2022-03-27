@@ -1,0 +1,14 @@
+,id_musee,adresse_musee,lat_musee,lng_musee,codep_musee,commune_musee,nom_musee,url_musee,type
+0,M1031,20 place des Terreaux,"45,767177","4,833576",69001.0,Lyon,musée des beaux-arts,www.mba-lyon.fr/fr,musee
+1,M1032,1 place du Petit Collège,"45,763856","4,827749",69005.0,Lyon,musée Gadagne,www.gadagne-lyon.fr/,musee
+2,M1034,14 avenue Berthelot,"45,747037","4,835797",69007.0,Lyon,centre d'histoire de la résistance,www.chrd.lyon.fr/,musee
+3,M1036,17 rue Cléberg,"45,760529","4,82004",69005.0,Lyon,"Lugdunum, musée et théâtres romains",lugdunum.grandlyon.com/fr/,musee
+4,M1038,"34, rue de la Charité","45,753117","4,831633",69002.0,Lyon,musée historique des tissus,www.museedestissus.fr/,musee
+5,M1039,3 quai des Célestins,"45,760912","4,831492",69002.0,Lyon,musée des hospices civils de Lyon,www.chu-lyon.fr/fr/musee-des-hcl,musee
+6,M7042,86 quai Perrache,"45,73319","4,818042",69002.0,Lyon,musée des Confluences,www.museedesconfluences.fr/,musee
+7,M1033,quai Charles de Gaulle,"45,784864","4,852921",69006.0,Lyon,musée d'art contemporain,www.mac-lyon.com/fr,musee
+8,M1128,358 avenue de Champagne,"45,790491","4,797411",69009.0,Lyon,musée des sapeurs-pompiers de Lyon,museepompiers.com/,musee
+9,M1127,13 rue de la Poulaillerie,"45,764219","4,834752",69002.0,Lyon,musée de l'imprimerie et de la communication graphique,www.imprimerie.lyon.fr/fr,musee
+10,M7042,86 quai Perrache,"45,73319","4,818042",69002.0,Lyon,musée Guimet,www.museedesconfluences.fr/,musee
+11,M1037,34 rue de la charité,"45,75342","4,83153",69002.0,Lyon,musée des arts décoratifs,www.museedestissus.fr/,musee
+12,M7042,86 quai Perrache,"45,73319","4,818042",69002.0,Lyon,muséum d'histoire naturelle,www.museedesconfluences.fr/,musee
